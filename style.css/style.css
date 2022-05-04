@@ -8,7 +8,9 @@ span {
     padding: 5px;
     border: 1px solid darkgray;
   }
-
+body {
+    text-align: center;
+}
 #one {
     background-color:lightblue;
     width: 150px;
@@ -34,18 +36,18 @@ span {
   }
   h1 {
     text-align: center;
-    text: purple:
-    position: center:
+    color: purple;
+    position: center;
   }
 Button {
   border-radius: 20px;
   color: red;
-  border:rgb(187, 189, 243)
+  border:rgb(187, 189, 243);
   position: center;
 }
 h2 {
     text-align: center;
-    border: black; 5px;
+    border: black; 
   }
   
   span {
@@ -55,10 +57,8 @@ h2 {
   }
   
   #pics {
-      max-width: 100%vw;
       background-position: top;
       background: norepeat;
-      max-height; 30%vh;
   }
 
   #text span {
@@ -67,4 +67,4 @@ h2 {
   
   #text span {
     background-color: rgb(133, 19, 19);
-  } */
+  }
