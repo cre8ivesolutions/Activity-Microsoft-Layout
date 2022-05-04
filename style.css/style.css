@@ -1,70 +1,70 @@
 span {
-    display: inline-block;
-  }
-
-span {
-    display: inline-block;
-    background-color: lightblue;
-    padding: 5px;
-    border: 1px solid darkgray;
-  }
+  display: inline-block;
+  background-color: lightblue;
+  padding: 5px;
+  border: 1px solid darkgray;
+}
 body {
-    text-align: center;
+  text-align: center;
 }
 #one {
-    background-color:lightblue;
-    width: 150px;
-    height: 200px;
-  }
-  
-#two {
-    background-color: cornflowerblue;
-    width: 200px;
-    height: 50px;
-  }
-  
-#three {
-    background-color: rgb(187, 189, 243);
-    width: 175px;
-    height: 150px;
-  }
-  
-  div
+  background-color:lightblue;
+  width: 150px;
+  height: 200px;
+}
 
-  span {
-    margin: 5px;
-  }
-  h1 {
-    text-align: center;
-    color: purple;
-    position: center;
-  }
-Button {
-  border-radius: 20px;
-  color: red;
-  border:rgb(187, 189, 243);
+#two {
+  background-color: cornflowerblue;
+  width: 200px;
+  height: 50px;
+}
+
+#three {
+  background-color: rgb(187, 189, 243);
+  width: 175px;
+  height: 150px;
+}
+
+div
+
+span {
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+  color: purple;
   position: center;
 }
+Button {
+border-radius: 20px;
+position: center;
+}
 h2 {
-    text-align: center;
-    border: black; 
-  }
-  
-  span {
-    border: 1px solid rgb(117, 59, 59);
-    
-    padding: 10px 15px;
-  }
-  
-  #pics {
-      background-position: top;
-      background: norepeat;
-  }
+  text-align: center;
+  border: black; 
+}
 
-  #text span {
-    padding: 25px 30px;
-  }
+span {
+  border: 1px solid rgb(117, 59, 59);
   
-  #text span {
-    background-color: rgb(133, 19, 19);
-  }
+  padding: 10px 15px;
+}
+
+#pics {
+    background-position: top;
+    background: norepeat;
+}
+
+#text span {
+  padding: 25px 30px;
+}
+
+#text span {
+  background-color: rgb(133, 19, 19);
+}
+#textbox {
+background-color: rgb(255, 255, 255);
+  width: 150px;
+  height: 50px;
+border: none;
+}
